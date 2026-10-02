@@ -1,0 +1,12 @@
+.pio/
+build/
+.vscode/
+__pycache__/
+*.pyc
+*.log
+*.elf
+*.bin
+*.map
+.env
+.env.*
+.claude/
